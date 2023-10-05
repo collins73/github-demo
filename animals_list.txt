@@ -2,3 +2,6 @@ birds
 cats
 foxes
 frogs
+pitbulls
+poodles
+german shepperds
